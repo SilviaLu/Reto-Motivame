@@ -97,3 +97,73 @@ Responsables de revisión:
       Gabriela Segura(teacher)
       Silvia Puente de la Vega Vilca
 
+#### Actividades con los usuarios.
+
+##### Entrevistas personales.
+
+Se realizaron entrevistas a 7 usuarios, en las que se les planto pregunstas abiertas y alternativas. Y que nos cuenten sus experiencias con las otras plataformas.
+
+![GPO-1](assets/image/GPO-1.png)
+![GPO-2](assets/image/GPO-2.png)
+
+**Conclusiones**
+
+- Las usuarias no estan conforme con lo que les ofrece las aplicaciones cnvencionales.
+- Los contenidos de los flujos no son tan claros como ellas esperaban.
+- Solo encontraron mas info para un tipo de objetvo (disminución de % ICM), cuando ellas tenian como objetivo aumentar este porcentaje.
+- El diseño no es de su gusto, mencionan lo confuso que les parecio.
+- La motivacion por permanecer en rutina, solo les duro un tiempo corto, no pudieron mantener firme esa desición.
+
+
+##### Encuestas virtuales.
+
+![Form](assets/image/doc-form.png)
+
+**Conclusiones de la encuesta virtual**
+
+- La mayoría de los usuarios conoce la relacion peso-estatura, pero no es consciente realmente los riesgos que incluye no estar sobre estos rangos.
+- No llevan un adecuado control de su peso. No recuerdan o fue hace mucho tiempo que se hicieron un control de peso.
+- El 71.4% de los usuarios piensa que solo intentar comer sano ayuda a ua vida saludable.
+- El 786% de los usuarios ha tenido alguna experiencia con alguna App relacionada con el control de peso y/o vida saludable.
+- El 71.4% de los usuarios cree que si le ofrecen descuentos que los puedan usar en diferentes categorias de consumo, se sentirian muy motivados a mantenerse firme con su descicion de vida saludable.
+- el 71.4% siente necesario incluir un contador de caloria que le ayude a controlar el % de caloria que consume o va consumir.
+- el 42.9% cree que el hecho de sentirse bien, con mas ganas es suficiente motivación, mientras que el 28.6% cree que verse en una imagen: antes y despues, le ayudaria bastante mantenerse en disciplina.
+- El 64.3% se anima a tener un partner que le ayude en este proceso, pero solo el 50% estaria a ser este partner que colabore con mantenerse disciplinado.
+
+### ARQUITECTURA DE LA INFORMACIÓN DE LA App *"Motívame"*:
+
+En el siguiente diagrama, se muestra la arquitectura de la información de la aplicación.
+Los flujos estan diferenciados por colores.
+
+![Arquitectura](assets/image/arqui_info.png)
+
+
+#### **Affinit map**
+
+![Affinity map](assets/image/aff-map.png)
+
+
+### BENCHMARCK
+
+Para realizar el Benchmarck, se tomó en cuenta a las diferents App que hay en el mercado virtual, se evaluaron al detalle tres de ellas, estas aplicaciones fueron elegidas bajo el criterio de priorizacion que las usuari@s mencionaron, indistintamente al obejtivo que cada un@ tenia. 
+
+#### **User Person**
+
+![storyboard-1](assets/image/User-person.png)
+
+
+#### **Storyboard**
+
+![storyboard-1](assets/image/story-1.png)
+![storyboard-2](assets/image/story-2.png)
+
+
+### Feature List
+
+- Registro de usuario nuevo.
+- Inicio de sesión
+- Mis progresos: imagees de progresos
+- Mis promociones: promociones descuentos en cada catgoria mencionada: comida, diversión, deporte y todo.
+- Comidas: Objetivo, Calorias, Sancks y todo.
+- Informes: rutina, historial, notas 
+- Mi partner: solicitude del partner de apoyo
