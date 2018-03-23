@@ -169,11 +169,11 @@ Los flujos estan diferenciados por colores.
 
 - Registro de usuario nuevo.
 - Inicio de sesión
-- Mis progresos: imagees de progresos
+- Mis progresos: imágenes de los progresos
 - Mis promociones: promociones descuentos en cada catgoria mencionada: comida, diversión, deporte y todo.
-- Comidas: Objetivo, Calorias, Sancks y todo.
+- Comidas: Objetivo, Calorías, Snacks y todo.
 - Informes: rutina, historial, notas 
-- Mi partner: solicitude del partner de apoyo
+- Mi partner: solicitud de partner de apoyo
 
 ### **Prototype en alta fidelidad**
 ![prototype](assets/image/vistas1.png)
