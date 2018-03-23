@@ -130,6 +130,16 @@ Se realizaron entrevistas a 7 usuarios, en las que se les planto pregunstas abie
 - el 42.9% cree que el hecho de sentirse bien, con mas ganas es suficiente motivación, mientras que el 28.6% cree que verse en una imagen: antes y despues, le ayudaria bastante mantenerse en disciplina.
 - El 64.3% se anima a tener un partner que le ayude en este proceso, pero solo el 50% estaria a ser este partner que colabore con mantenerse disciplinado.
 
+
+### BENCHMARCK
+
+Para realizar el Benchmarck, se tomó en cuenta a las diferents App que hay en el mercado virtual, se evaluaron al detalle tres de ellas, estas aplicaciones fueron elegidas bajo el criterio de priorizacion que las usuari@s mencionaron, indistintamente al obejtivo que cada un@ tenia. 
+
+![App](assets/image/appfabulous.png)
+![App](assets/image/appseven.png)
+![App](assets/image/applifesum.png)
+
+
 ### ARQUITECTURA DE LA INFORMACIÓN DE LA App *"Motívame"*:
 
 En el siguiente diagrama, se muestra la arquitectura de la información de la aplicación.
@@ -142,14 +152,9 @@ Los flujos estan diferenciados por colores.
 
 ![Affinity map](assets/image/aff-map.png)
 
-
-### BENCHMARCK
-
-Para realizar el Benchmarck, se tomó en cuenta a las diferents App que hay en el mercado virtual, se evaluaron al detalle tres de ellas, estas aplicaciones fueron elegidas bajo el criterio de priorizacion que las usuari@s mencionaron, indistintamente al obejtivo que cada un@ tenia. 
-
 #### **User Person**
 
-![storyboard-1](assets/image/User-person.png)
+![user-person](assets/image/User-person.png)
 
 
 #### **Storyboard**
