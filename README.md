@@ -165,7 +165,7 @@ Los flujos estan diferenciados por colores.
 ![storyboard-2](assets/image/story-2.png)
 
 
-### Feature List
+### **Feature List**
 
 - Registro de usuario nuevo.
 - Inicio de sesión
@@ -174,3 +174,15 @@ Los flujos estan diferenciados por colores.
 - Comidas: Objetivo, Calorias, Sancks y todo.
 - Informes: rutina, historial, notas 
 - Mi partner: solicitude del partner de apoyo
+
+### **Prototype en alta fidelidad**
+![prototype](assets/image/vistas1.png)
+
+
+![prototype](assets/image/vistas2.png)
+
+
+![prototype](assets/image/vistas3.png)
+
+
+![prototype](assets/image/vistas4.png)
