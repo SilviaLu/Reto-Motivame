@@ -139,6 +139,8 @@ Para realizar el Benchmarck, se tomó en cuenta a las diferents App que hay en e
 ![App](assets/image/appseven.png)
 ![App](assets/image/applifesum.png)
 
+ Mas info en 
+ [Ver más](https://drive.google.com/drive/folders/11yHl2xymbz6lVbj9FarHW4qEU9n7VWxF)
 
 ### ARQUITECTURA DE LA INFORMACIÓN DE LA App *"Motívame"*:
 
