@@ -1,6 +1,7 @@
 # **PROYECTO "MOTIVAME"**
 
 Reto realizado de manera individual, el reto consiste en diseñar una App que cumpla con las espectativas de los usuarios, al momento de buscar motivaciones que ayuden a mantener firme la desición de llevar una vid saludable. Se realizará un proceso de investigación y planeamiento estratégico, y con este conocimiento se identificará las principales necesidades del usuario.
+![inicio](assets/images/app-motivame.png)
 
 ## **OBJETIVOS**
 ### **Objetivo principal:**
@@ -103,21 +104,21 @@ Responsables de revisión:
 
 Se realizaron entrevistas a 7 usuarios, en las que se les planto pregunstas abiertas y alternativas. Y que nos cuenten sus experiencias con las otras plataformas.
 
-![GPO-1](assets/image/GPO-1.png)
-![GPO-2](assets/image/GPO-2.png)
+![GPO-1](assets/images/GPO-1.png)
+![GPO-2](assets/images/GPO-2.png)
 
 **Conclusiones**
 
-- Las usuarias no estan conforme con lo que les ofrece las aplicaciones cnvencionales.
+- Las usuarias no estan conforme con lo que les ofrece las aplicaciones convencionales.
 - Los contenidos de los flujos no son tan claros como ellas esperaban.
-- Solo encontraron mas info para un tipo de objetvo (disminución de % ICM), cuando ellas tenian como objetivo aumentar este porcentaje.
-- El diseño no es de su gusto, mencionan lo confuso que les parecio.
-- La motivacion por permanecer en rutina, solo les duro un tiempo corto, no pudieron mantener firme esa desición.
+- Solo encontraron más información para un tipo de objetvo puntual (disminución de % ICM), cuando ellas tenian como objetivo aumentar este porcentaje.
+- El diseño no es de su gusto, resaltan lo confuso que les pareció.
+- La motivación por permanecer en rutina, solo les duró un tiempo corto, no pudieron mantener firme esa desición.
 
 
 ##### Encuestas virtuales.
 
-![Form](assets/image/doc-form.png)
+![Form](assets/images/doc-form.png)
 
 **Conclusiones de la encuesta virtual**
 
@@ -135,9 +136,9 @@ Se realizaron entrevistas a 7 usuarios, en las que se les planto pregunstas abie
 
 Para realizar el Benchmarck, se tomó en cuenta a las diferents App que hay en el mercado virtual, se evaluaron al detalle tres de ellas, estas aplicaciones fueron elegidas bajo el criterio de priorizacion que las usuari@s mencionaron, indistintamente al obejtivo que cada un@ tenia. 
 
-![App](assets/image/appfabulous.png)
-![App](assets/image/appseven.png)
-![App](assets/image/applifesum.png)
+![App](assets/images/appfabulous.png)
+![App](assets/images/appseven.png)
+![App](assets/images/applifesum.png)
 
  Mas info en 
  [Ver más](https://drive.google.com/drive/folders/11yHl2xymbz6lVbj9FarHW4qEU9n7VWxF)
@@ -147,42 +148,42 @@ Para realizar el Benchmarck, se tomó en cuenta a las diferents App que hay en e
 En el siguiente diagrama, se muestra la arquitectura de la información de la aplicación.
 Los flujos estan diferenciados por colores.
 
-![Arquitectura](assets/image/arqui_info.png)
+![Arquitectura](assets/images/arqui_info.png)
 
 
 #### **Affinit map**
 
-![Affinity map](assets/image/aff-map.png)
+![Affinity map](assets/images/aff-map.png)
 
 #### **User Person**
 
-![user-person](assets/image/User-person.png)
+![user-person](assets/images/User-person.png)
 
 
 #### **Storyboard**
 
-![storyboard-1](assets/image/story-1.png)
-![storyboard-2](assets/image/story-2.png)
+![storyboard-1](assets/images/story-1.png)
+![storyboard-2](assets/images/story-2.png)
 
 
 ### **Feature List**
 
 - Registro de usuario nuevo.
 - Inicio de sesión
-- Mis progresos: imágenes de los progresos
-- Mis promociones: promociones descuentos en cada catgoria mencionada: comida, diversión, deporte y todo.
-- Comidas: Objetivo, Calorías, Snacks y todo.
+- Mis progresos: imágenes de los progresos que se va obteniendo
+- Mis promociones: promociones y descuentos que se van obteniendo en diferentes categorías, tales como: comida, diversión, deporte y todo.
+- Comidas: Contador de calorías, opciones platillos y Snacks, Todo.
 - Informes: rutina, historial, notas 
 - Mi partner: solicitud de partner de apoyo
 
 ### **Prototype en alta fidelidad**
-![prototype](assets/image/vistas1.png)
+![prototype](assets/images/vistas1.png)
 
 
-![prototype](assets/image/vistas2.png)
+![prototype](assets/images/vistas2.png)
 
 
-![prototype](assets/image/vistas3.png)
+![prototype](assets/images/vistas3.png)
 
 
-![prototype](assets/image/vistas4.png)
+![prototype](assets/images/vistas4.png)
