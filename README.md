@@ -4,6 +4,7 @@ Reto realizado de manera individual, el reto consiste en diseñar una App que cu
 
 ![app-motivame](https://user-images.githubusercontent.com/32303082/39156612-91de6fe6-471c-11e8-8b01-f4571aec689b.png)
 
+## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
 
 ## **OBJETIVOS**
 ### **Objetivo principal:**
